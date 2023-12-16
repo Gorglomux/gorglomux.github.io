@@ -1,8 +1,7 @@
-baseURL = "https://gorglomux.github.io"
+baseURL = "https://gorglomux.itch.io"
 languageCode = "en-us"
-title = "Edna West"
+title = "Armand Alléaume"
 theme = "personal-web"
-copyright="© Edna West"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +9,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Armand Alléaume"
+  sub = "I'm a Game Designer and Game Developper"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -41,28 +40,22 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  backgroundImage = '/walk.gif' # header background image - default "/images/test.gif" - Photo by Tim Marshall on Unsplash
+  gradientOverlay = 'rgba(0,0,0,0),rgba(0,0,0,0.7)' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
+  logo = "/Armand.jpg" # - default "/images/edna-west.jpg"
+
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  itch = "https://gorglomux.itch.io/"
+  linkedin = "https://www.linkedin.com/in/armand-all%C3%A9aume-b118a4113/"
+  github = "https://github.com/Gorglomux"
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "aralleaume@gmail.com"
+  text= "Contact" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
@@ -81,12 +74,12 @@ pygmentsCodeFences=true
   url = "/portfolio/"
   weight = -110
 
-[[menu.main]]
-  identifier = "blog"
-  name = "Post"
-  title = "Blog section"
-  url = "/post/"
-  weight = -100
+#[[menu.main]]
+#  identifier = "blog"
+#  name = "Post"
+#  title = "Blog section"
+#  url = "/post/"
+#  weight = -100
 
 [sitemap]
   changefreq = "monthly"
