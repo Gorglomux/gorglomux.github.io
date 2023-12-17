@@ -12,3 +12,4 @@ Since then, I developpped a passion for system and content design.
 
 I have professionnal experience with Unity, and scholar and personal experience with Unreal and Godot. 
 [Get to know me better](/about "Get to know me better")
+Check out my portfolio [here](/portfolio) !

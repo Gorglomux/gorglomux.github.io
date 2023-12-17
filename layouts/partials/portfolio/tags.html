@@ -1,4 +1,4 @@
-{{ if .Params.designs }}
+{{/*{{ if .Params.designs }}
   <div class="designs portfolio-tags">
     {{ partial "svg" (dict "iconName" "pencil" "size" "18px")}}
     {{ range $i, $e := .Params.designs }}
@@ -11,7 +11,7 @@
     {{ end }}
   </div>
 {{end}}
-
+*/}}
 {{ if .Params.techs }}
   <div class="techs portfolio-tags">
     {{ partial "svg" (dict "iconName" "tech" "size" "18px")}}

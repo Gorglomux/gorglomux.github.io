@@ -16,7 +16,6 @@ pygmentsCodeFences=true
   latestPublishHeader = "My Latest Project"
 
 [taxonomies]
-  design = "designs"
   tech = "techs"
 
 [blackfriday]
