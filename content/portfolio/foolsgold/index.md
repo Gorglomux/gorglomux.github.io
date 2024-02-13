@@ -22,7 +22,7 @@ The main way of choosing resources is a 3-way stack system. When you play an ite
 
 ![Item Stacks](./stacks.png)
 
-I wrote over 70 barks for the bosses, and wrote miscellaneous descriptions or over 80 items and tooltips.  
+I wrote over 70 barks for the bosses, and wrote miscellaneous descriptions for over 80 items and tooltips.  
 ![Dialogue interface](./dialogue_UI.png)
 
 The game is playable on a browser [on itch.io](https://ayperosia.itch.io/fools-gold).
