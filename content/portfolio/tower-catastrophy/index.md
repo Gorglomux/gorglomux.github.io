@@ -34,4 +34,4 @@ The game is playable on a browser [on itch.io](https://ayperosia.itch.io/tower-o
 
 To get started with the project, I made a [Game Design Document](https://docs.google.com/document/d/1NFU9h1Buusn7iRRbbFxXMZfDTwyCYejdFpgoEXmLpv0) that you can check out.
 
-The project has been developed for the Game Off Jam 2023.
+The project has been developed for the Game Off Jam 2023, and reached the 10th place in the Overall Category, out of 627 entries.

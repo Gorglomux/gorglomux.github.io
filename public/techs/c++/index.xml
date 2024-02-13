@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C&#43;&#43; on Armand Alléaume</title>
+    <link>https://gorglomux.itch.io/techs/c&#43;&#43;/</link>
+    <description>Recent content in C&#43;&#43; on Armand Alléaume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Dec 2021 20:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gorglomux.itch.io/techs/c++/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pizza Scape</title>
+      <link>https://gorglomux.itch.io/portfolio/pizzascape/</link>
+      <pubDate>Mon, 20 Dec 2021 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/pizzascape/</guid>
+      <description>PizzaScape is an asymetric 2-player cooperation game made for PC and mobile. One player plays a pizza delivery man with a mobile phone trying to escape a warehouse filled with puzzles, while the other player playing on a fake OS on mobile, helping out by giving clues, using the phone applications like a flashlight&amp;hellip;.&#xA;The game was a project made for the end of my second year of my video game computer science degree, with the special constraint that one player had to be on Unreal Engine, and the other one on Unity.</description>
+    </item>
+  </channel>
+</rss>

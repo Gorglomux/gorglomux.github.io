@@ -50,7 +50,7 @@ pygmentsCodeFences=true
 [params.social]
   itch = "https://gorglomux.itch.io/"
   linkedin = "https://www.linkedin.com/in/armand-all%C3%A9aume-b118a4113/"
-  github = "https://github.com/Gorglomux"
+  #github = "https://github.com/Gorglomux"
 
 [params.contact]
   email = "aralleaume@gmail.com"

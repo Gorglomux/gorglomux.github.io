@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Armand Alléaume</title>
+    <link>https://gorglomux.itch.io/portfolio/</link>
+    <description>Recent content in Portfolio on Armand Alléaume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2023 20:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gorglomux.itch.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tower of Catastrophe</title>
+      <link>https://gorglomux.itch.io/portfolio/tower-catastrophy/</link>
+      <pubDate>Thu, 30 Nov 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/tower-catastrophy/</guid>
+      <description>The Tower of catastrophe is an casual physics-based puzzle game where the player has to manage cats rapidly falling from the sky, and put them on a scale. The cats have different powerups, which makes the game tricky to manage.&#xA;For this game I worked as a Game and Content designer, implemented all visual and sound assets as well as balanced the game, along with developping most of the UI.</description>
+    </item>
+    <item>
+      <title>Nice park !</title>
+      <link>https://gorglomux.itch.io/portfolio/nice-park/</link>
+      <pubDate>Fri, 29 Sep 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/nice-park/</guid>
+      <description>Nice park ! is a puzzle game where the player have to park cars in a small place. The goal of the game is to fill all the green spots by all means possible. This mean parking different cars, or pushing others, while avoiding already parked cars.&#xA;The game has 13 levels, with 5 different cars with varied gameplay and physics.&#xA;For this game I designed the levels, main mechanics, developped and implemented the car physics and parking detection, as well with most of the asset implementation and sound effects.</description>
+    </item>
+    <item>
+      <title>Weird Bird</title>
+      <link>https://gorglomux.itch.io/portfolio/weird-bird/</link>
+      <pubDate>Tue, 20 Jun 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/weird-bird/</guid>
+      <description>Weird bird is a 3D platformer where you ride around the an icy environment as a penguin. The game is a sandbox open world game where you slide around at high speed, and complete various activities. For this project I worked as the Lead game designer, producer, QA tester, Level designer, and System developper.&#xA;The game was made for my final years at the CNAM-ENJMIN video game school. We had to make a sandbox open world with several added constraints, such as developping analytic tools and 3D character rigging and animation.</description>
+    </item>
+    <item>
+      <title>Pizza Scape</title>
+      <link>https://gorglomux.itch.io/portfolio/pizzascape/</link>
+      <pubDate>Mon, 20 Dec 2021 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/pizzascape/</guid>
+      <description>PizzaScape is an asymetric 2-player cooperation game made for PC and mobile. One player plays a pizza delivery man with a mobile phone trying to escape a warehouse filled with puzzles, while the other player playing on a fake OS on mobile, helping out by giving clues, using the phone applications like a flashlight&amp;hellip;.&#xA;The game was a project made for the end of my second year of my video game computer science degree, with the special constraint that one player had to be on Unreal Engine, and the other one on Unity.</description>
+    </item>
+  </channel>
+</rss>

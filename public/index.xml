@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Armand Alléaume</title>
+    <link>https://gorglomux.itch.io/</link>
+    <description>Recent content in Home on Armand Alléaume</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Nov 2023 20:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gorglomux.itch.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tower of Catastrophe</title>
+      <link>https://gorglomux.itch.io/portfolio/tower-catastrophy/</link>
+      <pubDate>Thu, 30 Nov 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/tower-catastrophy/</guid>
+      <description>The Tower of catastrophe is an casual physics-based puzzle game where the player has to manage cats rapidly falling from the sky, and put them on a scale. The cats have different powerups, which makes the game tricky to manage.&#xA;For this game I worked as a Game and Content designer, implemented all visual and sound assets as well as balanced the game, along with developping most of the UI.</description>
+    </item>
+    <item>
+      <title>Nice park !</title>
+      <link>https://gorglomux.itch.io/portfolio/nice-park/</link>
+      <pubDate>Fri, 29 Sep 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/nice-park/</guid>
+      <description>Nice park ! is a puzzle game where the player have to park cars in a small place. The goal of the game is to fill all the green spots by all means possible. This mean parking different cars, or pushing others, while avoiding already parked cars.&#xA;The game has 13 levels, with 5 different cars with varied gameplay and physics.&#xA;For this game I designed the levels, main mechanics, developped and implemented the car physics and parking detection, as well with most of the asset implementation and sound effects.</description>
+    </item>
+    <item>
+      <title>Weird Bird</title>
+      <link>https://gorglomux.itch.io/portfolio/weird-bird/</link>
+      <pubDate>Tue, 20 Jun 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/weird-bird/</guid>
+      <description>Weird bird is a 3D platformer where you ride around the an icy environment as a penguin. The game is a sandbox open world game where you slide around at high speed, and complete various activities. For this project I worked as the Lead game designer, producer, QA tester, Level designer, and System developper.&#xA;The game was made for my final years at the CNAM-ENJMIN video game school. We had to make a sandbox open world with several added constraints, such as developping analytic tools and 3D character rigging and animation.</description>
+    </item>
+    <item>
+      <title>Laser Game Revolution</title>
+      <link>https://gorglomux.itch.io/portfolio/varonia/lasergamerevolution/</link>
+      <pubDate>Sun, 01 Jan 2023 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/varonia/lasergamerevolution/</guid>
+      <description>Laser Game Revolution is a VR PVP shooter game set in egyptian temples and forgotton catacombs.&#xA;For this project I worked as the lead designer, and lead developper.&#xA;The game was designed for a new kind of experience : Free Roaming in Laser Game venues. As these places have thin walls and obstacles, the game would need to fit very specific configuration of rooms, and environments had to be designed with that in mind.</description>
+    </item>
+    <item>
+      <title>Virtual Arena</title>
+      <link>https://gorglomux.itch.io/portfolio/varonia/virtualarena/</link>
+      <pubDate>Sun, 10 Apr 2022 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/varonia/virtualarena/</guid>
+      <description>Virtual Arena is a competitive PVP sci-fi shooter game. Players compete in an arena in different gamemodes. Player collect weapons and take key areas on the different maps to gain major advantages.&#xA;I worked on designing new levels for 3 different VR venues in France.&#xA;The first map is a big spaceship-like platform designed for a bigger venue. Most of the action is at the center of the arena, with weapin caches located at the edge of the map.</description>
+    </item>
+    <item>
+      <title>Pizza Scape</title>
+      <link>https://gorglomux.itch.io/portfolio/pizzascape/</link>
+      <pubDate>Mon, 20 Dec 2021 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/pizzascape/</guid>
+      <description>PizzaScape is an asymetric 2-player cooperation game made for PC and mobile. One player plays a pizza delivery man with a mobile phone trying to escape a warehouse filled with puzzles, while the other player playing on a fake OS on mobile, helping out by giving clues, using the phone applications like a flashlight&amp;hellip;.&#xA;The game was a project made for the end of my second year of my video game computer science degree, with the special constraint that one player had to be on Unreal Engine, and the other one on Unity.</description>
+    </item>
+    <item>
+      <title>Escapage</title>
+      <link>https://gorglomux.itch.io/portfolio/varonia/escapage/</link>
+      <pubDate>Wed, 30 Jun 2021 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/varonia/escapage/</guid>
+      <description>Escapage is a 20-minute escape game set in a maya environment. Players have to work their way inside a mayan temple and discover the riches of the place, while avoiding deadly traps. The game is designed for 3-8 players.&#xA;I worked on designing a way to condense some of the puzzles into a smaller area, to fit with more configuration of warehouses. I also worked on implementing different types of hand tracking for the newer headset we used (Quest 2 and Vive Focus 3).</description>
+    </item>
+    <item>
+      <title>The Day After</title>
+      <link>https://gorglomux.itch.io/portfolio/varonia/thedayafter/</link>
+      <pubDate>Tue, 15 Jun 2021 20:00:00 +0000</pubDate>
+      <guid>https://gorglomux.itch.io/portfolio/varonia/thedayafter/</guid>
+      <description>The day after is a Pve zombie shooter game set in an abandoned mansion and a dark village. The game had a moderate success in our VR rooms, and I was tasked to develop a second chapter for it.&#xA;For this game I :&#xA;Wrote the scenario and dialogue lines Designed new enemies and a new boss Designed and developped a more dynamic enemy spawning feature Designed a new level, then tailored it to fit with every room configuration of our venues Optimize the game for low-end vr devices Worked on compatibility for new headset and accessories for the first chapter As the view of players in the game is relatively static, I used impostors to add details in the background without using too much resources.</description>
+    </item>
+  </channel>
+</rss>
